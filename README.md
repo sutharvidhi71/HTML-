@@ -9,17 +9,17 @@
 
 <h4><ol>Text & Formatting Tags</ol></h4>
 
-<p>Headings: <h1> to <h6>
+<p>Headings: <h1> to 
 
-Paragraph: <p>
+Paragraph: 
 
-Line break: <br>
+Line break: 
 
-Horizontal rule: <hr>
+Horizontal rule: 
 
-Bold / Italic: <b>, <i>, <strong>, <em>
+Bold / Italic: 
 
-Superscript / Subscript: <sup>, <sub></p>
+Superscript / Subscript: 
 <h4><ol> Links & Images (Very Important)</ol><h4>
 <p>
 Anchor tag <a>
